@@ -1,0 +1,24 @@
+{
+  "name": "api-server",
+  "version": "1.0.0",
+  "description": "API Server for CountDB Database as Backend and Countdash Application as Frontend",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/countdash/api-server.git"
+  },
+  "keywords": [
+    "API Server",
+    "Backend Server",
+    "CountDB API Server"
+  ],
+  "author": "Traverciti LLC",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/countdash/api-server/issues"
+  },
+  "homepage": "https://github.com/countdash/api-server#readme"
+}
